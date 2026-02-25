@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "703178269506",
+    "firebase_url": "https://workoutapp-2e908-default-rtdb.firebaseio.com",
+    "project_id": "workoutapp-2e908",
+    "storage_bucket": "workoutapp-2e908.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703178269506:android:5fdc0f7aad91313cc35edb",
+        "android_client_info": {
+          "package_name": "com.epfl.esl.workoutapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH79Zh1AHbZ8BvYPeWaZ_yNoJGyfG-dlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

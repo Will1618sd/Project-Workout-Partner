@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="android_wear_capabilities">
+        <item>workout_wear_app</item>
+    </string-array>
+</resources>
+
+<!--
+This tells the phone: "Hey, I am a device capable of being the 'workout_wear_app'".
+The code `capabilityClient.getCapability("workout_wear_app", ...)` uses this string to find the watch.
+-->

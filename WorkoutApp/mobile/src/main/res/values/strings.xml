@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">WorkoutPartner</string>
+    <string name="menu_icon_content_description">About WorkoutApp</string>
+    <string name="home_page_content_description">Home Page content description</string>
+    <string name="home_page_navigation_label">Home Page</string>
+    <string name="new_activity_content_description">New Activity content description</string>
+    <string name="new_activity_navigation_label">New Activity</string>
+    <string name="profile_page_content_description">Profile Page content description</string>
+    <string name="profile_page_navigation_label">Profile Page</string>
+    <string name="home_page">This is home page</string>
+    <string name="profile_page">This is the profile page</string>
+    <string name="about_navigation_drawer_item_text">More information about WorkoutApp</string>
+    <string name="default_user_image">Default User Image</string>
+    <string name="picked_user_image">User Image</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in_button_text">Log In</string>
+    <string name="sign_up_button_text">Sign Up</string>
+    <string name="new_activity_page">This is the new activity page</string>
+    <string name="running">Running</string>
+    <string name="cycling">Cycling</string>
+    <string name="swimming">Swimming</string>
+    <string name="workout">Workout</string>
+    <string name="user_image_content_description">User Profile Picture</string>
+    <string name="log_out_button_text">Log Out</string>
+    <string name="marker_title_text">Marker</string>
+    <string name="location_permission_text">Location Permission</string>
+    <string name="location_permission_button_text">Ask for location permission</string>
+    <string name="heart_rate">HR</string>
+    <string name="activity_chosen">Activity Chosen</string>
+    <string name="settings_icon">Settings</string>
+</resources>
